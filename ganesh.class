@@ -1,6 +1,7 @@
 class ganesh{
 	public static void main(String[] args){
 		System.out.println("THis is the first program here");
+		System.out.println("Modified afted add");
 }
 }
 
